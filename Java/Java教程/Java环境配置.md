@@ -1,4 +1,4 @@
-## Java环境配置
+# Java环境配置
 
 ### Windows下的环境配置
 
@@ -9,3 +9,9 @@
 5. 右侧新建，浏览或者输入地址 **C:\Program Files\Java\jdk-11.0.1\bin** ，jdk 后面跟正确版本号，末尾  
    是 \bin 。
 6. 最后，打开 Command Prompt (cmd.exe)  输入 `java -version` 查看是否设置成功。
+
+### 如果不搭建环境的话
+
+需要在 **C:\Program Files\Java\jdk-11.0.1\bin** 路径下才能运行 `java` , `javac` 等命令。而配置完环境后，
+任何路径下都可以使用。前面不必再添加冗长的 JDK 安装路径，更方便工作。
+
