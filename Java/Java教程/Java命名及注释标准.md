@@ -17,8 +17,6 @@ public void toString(){}
 
 5、 常量名全部大写
 
-A
-
 如：
 
 ```java
