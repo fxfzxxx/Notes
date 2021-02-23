@@ -315,7 +315,7 @@ var b = 2;
 
 (function() {
     var b = 3;
-    var a+=b;
+    a+=b;
 })();
 
 a; //4
